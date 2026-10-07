@@ -1,0 +1,51 @@
+productId,productName,category,unitPrice
+P0001,Wireless Earbuds,Electronics,321.88
+P0002,Bluetooth Speaker,Electronics,4931.32
+P0003,Phone Case,Electronics,621.26
+P0004,USB-C Cable,Electronics,2188.06
+P0005,Power Bank,Electronics,3119.27
+P0006,Smart Watch,Electronics,2201.93
+P0007,Laptop Stand,Electronics,939.48
+P0008,Webcam,Electronics,2560.71
+P0009,Keyboard,Electronics,1193.43
+P0010,Mouse,Electronics,2499.86
+P0011,Table Lamp,Home,3603.09
+P0012,Cushion Cover,Home,1564.5
+P0013,Wall Clock,Home,2287.3
+P0014,Storage Box,Home,3195.34
+P0015,Curtain Set,Home,2705.14
+P0016,Door Mat,Home,4023.33
+P0017,Photo Frame,Home,4466.9
+P0018,Candle Set,Home,4837.09
+P0019,Planter Pot,Home,908.02
+P0020,Bedsheet Set,Home,2463.43
+P0021,Cotton T-Shirt,Fashion,677.72
+P0022,Denim Jacket,Fashion,3521.21
+P0023,Running Shoes,Fashion,2039.81
+P0024,Leather Wallet,Fashion,4261.51
+P0025,Sunglasses,Fashion,2467.67
+P0026,Backpack,Fashion,4010.28
+P0027,Baseball Cap,Fashion,249.93
+P0028,Sports Socks,Fashion,3102.92
+P0029,Formal Shirt,Fashion,2124.7
+P0030,Hoodie,Fashion,4179.61
+P0031,Non-stick Pan,Kitchen,604.48
+P0032,Steel Bottle,Kitchen,534.77
+P0033,Mixer Grinder,Kitchen,3468.55
+P0034,Cutting Board,Kitchen,1697.67
+P0035,Spice Rack,Kitchen,2229.95
+P0036,Lunch Box,Kitchen,2079.17
+P0037,Coffee Mug Set,Kitchen,4927.72
+P0038,Knife Set,Kitchen,3155.7
+P0039,Air Fryer,Kitchen,4179.0
+P0040,Tiffin Carrier,Kitchen,4210.91
+P0041,Fiction Novel,Books,
+P0042,Cookbook,Books,2290.08
+P0043,Self-Help Guide,Books,1520.38
+P0044,Children's Storybook,Books,2623.01
+P0045,Travel Atlas,Books,4481.42
+P0046,Comic Collection,Books,4427.05
+P0047,Biography,Books,
+P0048,Poetry Anthology,Books,4542.31
+P0049,Puzzle Book,Books,3835.16
+P0050,History Book,Books,296.89
