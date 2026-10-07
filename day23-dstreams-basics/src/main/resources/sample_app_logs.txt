@@ -1,0 +1,335 @@
+2026-10-07 09:00:00.496 INFO [auth-service] Cache refreshed
+2026-10-07 09:00:01.238 INFO [order-service] User session started
+2026-10-07 09:00:01.452 WARN [payment-service] Response time exceeded 500ms
+2026-10-07 09:00:02.162 INFO [inventory-service] Connection pool initialized
+2026-10-07 09:00:02.729 INFO [auth-service] Request completed successfully
+2026-10-07 09:00:03.602 WARN [payment-service] Deprecated API endpoint called
+2026-10-07 09:00:04.179 INFO [notification-service] Cache refreshed
+2026-10-07 09:00:04.864 WARN [payment-service] Cache miss rate above threshold
+2026-10-07 09:00:05.755 INFO [payment-service] User session started
+2026-10-07 09:00:06.644 INFO [notification-service] Request completed successfully
+2026-10-07 09:00:07.280 INFO [auth-service] Scheduled job finished
+2026-10-07 09:00:08.084 INFO [order-service] Cache refreshed
+2026-10-07 09:00:08.749 INFO [notification-service] User session started
+2026-10-07 09:00:09.071 INFO [inventory-service] Scheduled job finished
+2026-10-07 09:00:09.877 ERROR [auth-service] NullPointerException in request handler
+2026-10-07 09:00:10.111 WARN [auth-service] Connection pool nearing capacity
+
+2026-10-07 09:00:10.542 INFO [auth-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:00:11.293 WARN [inventory-service] Deprecated API endpoint called
+
+2026-10-07 09:00:11.879 INFO [inventory-service] Request completed successfully
+2026-10-07 09:00:12.640 WARN [payment-service] Connection pool nearing capacity
+2026-10-07 09:00:13.061 INFO [auth-service] Scheduled job finished
+2026-10-07 09:00:13.817 ERROR [notification-service] Payment gateway timeout
+2026-10-07 09:00:14.185 INFO [auth-service] Cache refreshed
+2026-10-07 09:00:14.809 ERROR [payment-service] Unauthorized access attempt blocked
+2026-10-07 09:00:15.080 INFO [payment-service] Health check passed
+2026-10-07 09:00:15.850 INFO [notification-service] Config reloaded
+2026-10-07 09:00:16.075 INFO [payment-service] Scheduled job finished
+2026-10-07 09:00:16.715 INFO [payment-service] Connection pool initialized
+2026-10-07 09:00:17.490 INFO [notification-service] Scheduled job finished
+2026-10-07 09:00:18.150 INFO [order-service] Health check passed
+
+2026-10-07 09:00:18.495 INFO [inventory-service] Connection pool initialized
+2026-10-07 09:00:19.365 WARN [inventory-service] Response time exceeded 500ms
+2026-10-07 09:00:19.848 INFO [inventory-service] Scheduled job finished
+2026-10-07 09:00:20.229 INFO [notification-service] Cache refreshed
+2026-10-07 09:00:20.517 ERROR [payment-service] Downstream service returned 500
+2026-10-07 09:00:21.103 WARN [auth-service] Cache miss rate above threshold
+2026-10-07 09:00:22.000 INFO [order-service] Config reloaded
+2026-10-07 09:00:22.549 INFO [payment-service] Health check passed
+2026-10-07 09:00:23.432 WARN [inventory-service] Deprecated API endpoint called
+2026-10-07 09:00:23.723 INFO [inventory-service] Cache refreshed
+2026-10-07 09:00:24.072 INFO [notification-service] Scheduled job finished
+2026-10-07 09:00:24.395 INFO [order-service] Health check passed
+
+2026-10-07 09:00:24.632 WARN [order-service] Response time exceeded 500ms
+2026-10-07 09:00:25.409 INFO [inventory-service] Config reloaded
+2026-10-07 09:00:25.814 INFO [order-service] Scheduled job finished
+2026-10-07 09:00:26.106 WARN [payment-service] Connection pool nearing capacity
+2026-10-07 09:00:26.675 INFO [order-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:00:27.545 INFO [notification-service] Request completed successfully
+2026-10-07 09:00:27.931 INFO [auth-service] Connection pool initialized
+2026-10-07 09:00:28.432 ERROR [inventory-service] Payment gateway timeout
+2026-10-07 09:00:28.680 WARN [auth-service] Cache miss rate above threshold
+2026-10-07 09:00:28.910 INFO [payment-service] User session started
+2026-10-07 09:00:29.321 INFO [inventory-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:00:30.122 WARN [inventory-service] Cache miss rate above threshold
+2026-10-07 09:00:30.896 INFO [order-service] Connection pool initialized
+2026-10-07 09:00:31.749 INFO [payment-service] Config reloaded
+2026-10-07 09:00:31.989 INFO [inventory-service] Connection pool initialized
+2026-10-07 09:00:32.855 INFO [notification-service] Cache refreshed
+2026-10-07 09:00:33.114 INFO [auth-service] Health check passed
+2026-10-07 09:00:33.478 ERROR [notification-service] Payment gateway timeout
+2026-10-07 09:00:34.000 WARN [auth-service] Connection pool nearing capacity
+2026-10-07 09:00:34.608 INFO [order-service] Request completed successfully
+2026-10-07 09:00:35.446 ERROR [inventory-service] NullPointerException in request handler
+2026-10-07 09:00:35.840 Error [inventory-service] Downstream service returned 500
+
+2026-10-07 09:00:36.692 INFO [inventory-service] Connection pool initialized
+2026-10-07 09:00:37.291 INFO [order-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:00:38.175 WARN [order-service] Retrying request after timeout
+2026-10-07 09:00:38.440 ERROR [notification-service] Failed to deserialize request body
+2026-10-07 09:00:38.764 INFO [auth-service] Connection pool initialized
+2026-10-07 09:00:39.620 INFO [order-service] Request completed successfully
+2026-10-07 09:00:40.440 INFO [payment-service] User session started
+2026-10-07 09:00:40.959 WARN [order-service] Connection pool nearing capacity
+2026-10-07 09:00:41.718 INFO [notification-service] Connection pool initialized
+
+2026-10-07 09:00:42.602 WARN [notification-service] Cache miss rate above threshold
+2026-10-07 09:00:42.945 WARN [auth-service] Deprecated API endpoint called
+2026-10-07 09:00:43.258 INFO [notification-service] Request completed successfully
+2026-10-07 09:00:43.492 INFO [inventory-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:00:43.962 INFO [order-service] Health check passed
+2026-10-07 09:00:44.824 ERROR [auth-service] NullPointerException in request handler
+2026-10-07 09:00:45.699 WARN [auth-service] Retrying request after timeout
+2026-10-07 09:00:46.121 INFO [inventory-service] Connection pool initialized
+2026-10-07 09:00:46.587 WARN [auth-service] Connection pool nearing capacity
+2026-10-07 09:00:47.369 INFO [notification-service] Request completed successfully
+2026-10-07 09:00:47.711 WARN [payment-service] Deprecated API endpoint called
+2026-10-07 09:00:48.435 ERROR [notification-service] Failed to deserialize request body
+
+2026-10-07 09:00:49.143 INFO [auth-service] Cache refreshed
+2026-10-07 09:00:49.969 ERROR [auth-service] NullPointerException in request handler
+2026-10-07 09:00:50.286 INFO [payment-service] Config reloaded
+2026-10-07 09:00:50.599 ERROR [notification-service] Downstream service returned 500
+2026-10-07 09:00:50.974 WARN [notification-service] Cache miss rate above threshold
+2026-10-07 09:00:51.385 INFO [auth-service] Scheduled job finished
+2026-10-07 09:00:52.183 INFO [payment-service] Health check passed
+2026-10-07 09:00:52.593 INFO [notification-service] Cache refreshed
+2026-10-07 09:00:52.894 INFO [payment-service] Connection pool initialized
+2026-10-07 09:00:53.564 INFO [payment-service] Scheduled job finished
+2026-10-07 09:00:54.107 INFO [auth-service] Request completed successfully
+2026-10-07 09:00:54.463 INFO [auth-service] Connection pool initialized
+2026-10-07 09:00:54.699 ERROR [inventory-service] NullPointerException in request handler
+2026-10-07 09:00:55.170 WARN [order-service] Connection pool nearing capacity
+2026-10-07 09:00:56.059 INFO [order-service] Config reloaded
+2026-10-07 09:00:56.750 INFO [auth-service] Connection pool initialized
+2026-10-07 09:00:57.606 INFO [auth-service] Connection pool initialized
+2026-10-07 09:00:57.830 ERROR [auth-service] Downstream service returned 500
+2026-10-07 09:00:58.180 ERROR [auth-service] Unauthorized access attempt blocked
+2026-10-07 09:00:59.021 ERROR [order-service] Unauthorized access attempt blocked
+2026-10-07 09:00:59.368 INFO [inventory-service] Scheduled job finished
+2026-10-07 09:01:00.124 WARN [notification-service] Cache miss rate above threshold
+2026-10-07 09:01:00.971 INFO [notification-service] Connection pool initialized
+2026-10-07 09:01:01.446 WARN [inventory-service] Retrying request after timeout
+2026-10-07 09:01:01.990 INFO [order-service] Health check passed
+2026-10-07 09:01:02.245 WARN [inventory-service] Response time exceeded 500ms
+2026-10-07 09:01:02.564 WARN [auth-service] Retrying request after timeout
+2026-10-07 09:01:03.137 ERROR [inventory-service] Downstream service returned 500
+2026-10-07 09:01:03.432 WARN [notification-service] Deprecated API endpoint called
+2026-10-07 09:01:03.837 WARN [payment-service] Cache miss rate above threshold
+2026-10-07 09:01:04.188 WARN [inventory-service] Connection pool nearing capacity
+2026-10-07 09:01:04.944 INFO [payment-service] Config reloaded
+2026-10-07 09:01:05.528 INFO [order-service] Connection pool initialized
+2026-10-07 09:01:05.791 INFO [payment-service] Request completed successfully
+2026-10-07 09:01:06.281 INFO [payment-service] Request completed successfully
+2026-10-07 09:01:06.853 INFO [order-service] Config reloaded
+2026-10-07 09:01:07.519 INFO [notification-service] Scheduled job finished
+2026-10-07 09:01:08.332 INFO [notification-service] Scheduled job finished
+2026-10-07 09:01:09.202 WARN [payment-service] Response time exceeded 500ms
+2026-10-07 09:01:09.956 WARN [inventory-service] Response time exceeded 500ms
+2026-10-07 09:01:10.169 ERROR [order-service] Downstream service returned 500
+2026-10-07 09:01:10.604 ERROR [notification-service] Unauthorized access attempt blocked
+2026-10-07 09:01:10.842 ERROR [order-service] Out of memory while processing batch
+2026-10-07 09:01:11.357 INFO [inventory-service] Config reloaded
+
+2026-10-07 09:01:11.832 INFO [order-service] Health check passed
+2026-10-07 09:01:12.659 INFO [inventory-service] User session started
+2026-10-07 09:01:13.069 Error [inventory-service] Database connection failed
+2026-10-07 09:01:13.546 INFO [payment-service] Config reloaded
+2026-10-07 09:01:13.991 WARN [auth-service] Deprecated API endpoint called
+2026-10-07 09:01:14.615 Error [auth-service] NullPointerException in request handler
+2026-10-07 09:01:14.857 ERROR [notification-service] Database connection failed
+2026-10-07 09:01:15.060 INFO [payment-service] Connection pool initialized
+2026-10-07 09:01:15.787 WARN [inventory-service] Cache miss rate above threshold
+2026-10-07 09:01:16.630 ERROR [auth-service] NullPointerException in request handler
+2026-10-07 09:01:16.966 INFO [auth-service] User session started
+2026-10-07 09:01:17.419 ERROR [payment-service] Unauthorized access attempt blocked
+2026-10-07 09:01:18.160 INFO [order-service] Scheduled job finished
+2026-10-07 09:01:18.407 INFO [auth-service] User session started
+
+2026-10-07 09:01:19.124 INFO [notification-service] Config reloaded
+
+2026-10-07 09:01:19.735 INFO [payment-service] Scheduled job finished
+2026-10-07 09:01:20.274 INFO [notification-service] Connection pool initialized
+2026-10-07 09:01:20.990 INFO [payment-service] Request completed successfully
+2026-10-07 09:01:21.483 WARN [order-service] Cache miss rate above threshold
+2026-10-07 09:01:21.983 INFO [payment-service] Connection pool initialized
+2026-10-07 09:01:22.239 ERROR [auth-service] Failed to deserialize request body
+2026-10-07 09:01:22.823 ERROR [inventory-service] NullPointerException in request handler
+2026-10-07 09:01:23.547 INFO [payment-service] Health check passed
+2026-10-07 09:01:24.301 INFO [auth-service] Connection pool initialized
+2026-10-07 09:01:24.774 INFO [auth-service] Request completed successfully
+2026-10-07 09:01:25.205 INFO [auth-service] User session started
+2026-10-07 09:01:25.798 WARN [auth-service] Cache miss rate above threshold
+2026-10-07 09:01:26.167 INFO [payment-service] Config reloaded
+2026-10-07 09:01:26.921 ERROR [payment-service] Payment gateway timeout
+2026-10-07 09:01:27.611 WARN [payment-service] Connection pool nearing capacity
+
+2026-10-07 09:01:28.007 INFO [notification-service] Scheduled job finished
+2026-10-07 09:01:28.573 INFO [payment-service] Request completed successfully
+2026-10-07 09:01:29.342 WARN [notification-service] Retrying request after timeout
+2026-10-07 09:01:30.101 WARN [inventory-service] Connection pool nearing capacity
+2026-10-07 09:01:30.770 WARN [order-service] Cache miss rate above threshold
+2026-10-07 09:01:31.317 WARN [auth-service] Deprecated API endpoint called
+2026-10-07 09:01:32.213 INFO [order-service] Config reloaded
+2026-10-07 09:01:32.775 WARN [notification-service] Deprecated API endpoint called
+2026-10-07 09:01:33.611 INFO [payment-service] User session started
+2026-10-07 09:01:33.862 INFO [order-service] Request completed successfully
+2026-10-07 09:01:34.262 INFO [inventory-service] Cache refreshed
+2026-10-07 09:01:35.081 INFO [auth-service] Cache refreshed
+2026-10-07 09:01:35.533 INFO [inventory-service] Cache refreshed
+2026-10-07 09:01:35.841 WARN [order-service] Retrying request after timeout
+2026-10-07 09:01:36.483 INFO [notification-service] Scheduled job finished
+2026-10-07 09:01:36.866 WARN [notification-service] Cache miss rate above threshold
+2026-10-07 09:01:37.676 INFO [inventory-service] Config reloaded
+2026-10-07 09:01:37.890 INFO [inventory-service] Connection pool initialized
+2026-10-07 09:01:38.702 INFO [auth-service] Config reloaded
+2026-10-07 09:01:38.923 INFO [inventory-service] Health check passed
+2026-10-07 09:01:39.521 ERROR [order-service] Out of memory while processing batch
+2026-10-07 09:01:40.375 WARN [order-service] Deprecated API endpoint called
+2026-10-07 09:01:40.789 INFO [inventory-service] Health check passed
+2026-10-07 09:01:41.383 INFO [payment-service] Connection pool initialized
+2026-10-07 09:01:41.727 ERROR [order-service] Failed to deserialize request body
+2026-10-07 09:01:42.567 INFO [notification-service] Connection pool initialized
+2026-10-07 09:01:42.931 INFO [auth-service] Request completed successfully
+2026-10-07 09:01:43.153 WARN [payment-service] Cache miss rate above threshold
+2026-10-07 09:01:43.469 INFO [notification-service] Cache refreshed
+2026-10-07 09:01:44.177 ERROR [payment-service] Failed to deserialize request body
+2026-10-07 09:01:44.381 WARN [payment-service] Deprecated API endpoint called
+2026-10-07 09:01:44.659 INFO [auth-service] Connection pool initialized
+2026-10-07 09:01:45.557 INFO [auth-service] Config reloaded
+2026-10-07 09:01:45.873 INFO [order-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:01:46.598 ERROR [auth-service] Unauthorized access attempt blocked
+2026-10-07 09:01:47.390 INFO [order-service] Scheduled job finished
+2026-10-07 09:01:47.940 WARN [payment-service] Deprecated API endpoint called
+2026-10-07 09:01:48.151 INFO [payment-service] Request completed successfully
+2026-10-07 09:01:48.871 INFO [payment-service] Connection pool initialized
+2026-10-07 09:01:49.608 WARN [inventory-service] Cache miss rate above threshold
+2026-10-07 09:01:50.485 INFO [payment-service] Health check passed
+2026-10-07 09:01:50.987 ERROR [inventory-service] Payment gateway timeout
+2026-10-07 09:01:51.241 INFO [auth-service] Request completed successfully
+2026-10-07 09:01:51.908 INFO [payment-service] User session started
+2026-10-07 09:01:52.213 INFO [order-service] Cache refreshed
+2026-10-07 09:01:52.475 INFO [auth-service] Health check passed
+2026-10-07 09:01:53.176 INFO [notification-service] Scheduled job finished
+2026-10-07 09:01:53.734 WARN [auth-service] Cache miss rate above threshold
+2026-10-07 09:01:54.006 ERROR [auth-service] Out of memory while processing batch
+2026-10-07 09:01:54.252 INFO [auth-service] Health check passed
+2026-10-07 09:01:55.032 WARN [payment-service] Connection pool nearing capacity
+2026-10-07 09:01:55.248 INFO [order-service] Request completed successfully
+2026-10-07 09:01:55.812 INFO [order-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:01:56.305 INFO [notification-service] Scheduled job finished
+2026-10-07 09:01:56.578 WARN [auth-service] Response time exceeded 500ms
+2026-10-07 09:01:57.020 INFO [notification-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:01:57.491 INFO [inventory-service] Health check passed
+2026-10-07 09:01:57.747 ERROR [payment-service] Database connection failed
+2026-10-07 09:01:58.286 Error [notification-service] NullPointerException in request handler
+2026-10-07 09:01:58.816 ERROR [order-service] Failed to deserialize request body
+2026-10-07 09:01:59.156 INFO [inventory-service] Connection pool initialized
+2026-10-07 09:01:59.609 WARN [payment-service] Deprecated API endpoint called
+2026-10-07 09:01:59.876 INFO [payment-service] Config reloaded
+2026-10-07 09:02:00.517 ERROR [notification-service] Unauthorized access attempt blocked
+2026-10-07 09:02:00.757 INFO [order-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:02:01.195 INFO [order-service] Cache refreshed
+2026-10-07 09:02:01.447 ERROR [notification-service] Failed to deserialize request body
+2026-10-07 09:02:01.686 INFO [notification-service] Config reloaded
+2026-10-07 09:02:02.032 INFO [payment-service] Cache refreshed
+2026-10-07 09:02:02.654 INFO [inventory-service] Connection pool initialized
+2026-10-07 09:02:03.276 WARN [notification-service] Connection pool nearing capacity
+2026-10-07 09:02:03.791 INFO [order-service] Request completed successfully
+2026-10-07 09:02:04.257 INFO [auth-service] Cache refreshed
+2026-10-07 09:02:04.472 INFO [order-service] Scheduled job finished
+2026-10-07 09:02:05.135 WARN [notification-service] Deprecated API endpoint called
+2026-10-07 09:02:05.639 WARN [notification-service] Retrying request after timeout
+2026-10-07 09:02:06.278 INFO [payment-service] Cache refreshed
+2026-10-07 09:02:06.632 INFO [payment-service] Cache refreshed
+2026-10-07 09:02:07.344 Error [notification-service] Failed to deserialize request body
+2026-10-07 09:02:07.765 ERROR [notification-service] Downstream service returned 500
+2026-10-07 09:02:08.477 INFO [payment-service] Config reloaded
+2026-10-07 09:02:08.723 error [order-service] NullPointerException in request handler
+2026-10-07 09:02:09.373 INFO [auth-service] Connection pool initialized
+2026-10-07 09:02:10.127 INFO [auth-service] Config reloaded
+2026-10-07 09:02:10.667 INFO [auth-service] Config reloaded
+2026-10-07 09:02:11.468 INFO [notification-service] Connection pool initialized
+2026-10-07 09:02:11.940 INFO [notification-service] Cache refreshed
+2026-10-07 09:02:12.794 INFO [auth-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:02:13.125 WARN [auth-service] Retrying request after timeout
+2026-10-07 09:02:13.492 INFO [notification-service] Cache refreshed
+2026-10-07 09:02:14.387 INFO [order-service] Request completed successfully
+2026-10-07 09:02:14.883 INFO [notification-service] Connection pool initialized
+2026-10-07 09:02:15.572 INFO [payment-service] Cache refreshed
+2026-10-07 09:02:16.119 WARN [inventory-service] Connection pool nearing capacity
+2026-10-07 09:02:16.954 INFO [order-service] Cache refreshed
+2026-10-07 09:02:17.390 INFO [payment-service] Scheduled job finished
+2026-10-07 09:02:17.942 INFO [auth-service] User session started
+2026-10-07 09:02:18.301 WARN [inventory-service] Retrying request after timeout
+2026-10-07 09:02:19.160 INFO [notification-service] Request completed successfully
+2026-10-07 09:02:19.511 INFO [order-service] Connection pool initialized
+2026-10-07 09:02:20.038 INFO [payment-service] Cache refreshed
+2026-10-07 09:02:20.796 ERROR [auth-service] NullPointerException in request handler
+2026-10-07 09:02:21.006 INFO [notification-service] User session started
+2026-10-07 09:02:21.902 INFO [notification-service] User session started
+2026-10-07 09:02:22.165 WARN [auth-service] Deprecated API endpoint called
+2026-10-07 09:02:22.810 INFO [inventory-service] Cache refreshed
+2026-10-07 09:02:23.099 WARN [notification-service] Response time exceeded 500ms
+2026-10-07 09:02:23.703 INFO [payment-service] Config reloaded
+2026-10-07 09:02:24.419 INFO [notification-service] Cache refreshed
+2026-10-07 09:02:24.964 WARN [notification-service] Retrying request after timeout
+2026-10-07 09:02:25.706 INFO [auth-service] Config reloaded
+
+2026-10-07 09:02:26.500 WARN [order-service] Cache miss rate above threshold
+2026-10-07 09:02:26.851 WARN [payment-service] Retrying request after timeout
+2026-10-07 09:02:27.527 WARN [auth-service] Response time exceeded 500ms
+
+2026-10-07 09:02:27.927 WARN [payment-service] Cache miss rate above threshold
+2026-10-07 09:02:28.268 INFO [auth-service] User session started
+2026-10-07 09:02:28.861 WARN [payment-service] Cache miss rate above threshold
+2026-10-07 09:02:29.721 INFO [order-service] Request completed successfully
+2026-10-07 09:02:30.259 INFO [notification-service] Scheduled job finished
+2026-10-07 09:02:30.484 ERROR [order-service] Out of memory while processing batch
+2026-10-07 09:02:31.190 INFO [inventory-service] Health check passed
+2026-10-07 09:02:31.541 ERROR [inventory-service] Out of memory while processing batch
+2026-10-07 09:02:32.287 INFO [payment-service] Scheduled job finished
+2026-10-07 09:02:32.488 ERROR [inventory-service] Downstream service returned 500
+2026-10-07 09:02:33.130 INFO [inventory-service] Cache refreshed
+
+2026-10-07 09:02:33.332 ERROR [auth-service] Unauthorized access attempt blocked
+2026-10-07 09:02:33.546 WARN [notification-service] Connection pool nearing capacity
+2026-10-07 09:02:34.122 INFO [payment-service] Scheduled job finished
+2026-10-07 09:02:34.589 INFO [inventory-service] Scheduled job finished
+2026-10-07 09:02:35.340 INFO [payment-service] Request completed successfully
+2026-10-07 09:02:35.614 ERROR [auth-service] Payment gateway timeout
+2026-10-07 09:02:35.830 INFO [notification-service] Cache refreshed
+2026-10-07 09:02:36.302 INFO [payment-service] Cache refreshed
+2026-10-07 09:02:37.034 INFO [auth-service] Request completed successfully
+2026-10-07 09:02:37.838 INFO [notification-service] Config reloaded
+2026-10-07 09:02:38.655 WARN [order-service] Connection pool nearing capacity
+2026-10-07 09:02:39.426 INFO [notification-service] Config reloaded
+2026-10-07 09:02:39.987 INFO [auth-service] User session started
+2026-10-07 09:02:40.692 WARN [notification-service] Response time exceeded 500ms
+2026-10-07 09:02:41.071 WARN [payment-service] Response time exceeded 500ms
+2026-10-07 09:02:41.404 INFO [inventory-service] Scheduled job finished
+2026-10-07 09:02:41.909 WARN [inventory-service] Connection pool nearing capacity
+2026-10-07 09:02:42.417 INFO [notification-service] Request completed successfully
+2026-10-07 09:02:43.012 INFO [payment-service] ErrorHandlerRegistry initialized with 4 handlers
+2026-10-07 09:02:43.549 ERROR [order-service] Database connection failed
+2026-10-07 09:02:44.209 INFO [order-service] Connection pool initialized
+2026-10-07 09:02:44.922 WARN [notification-service] Cache miss rate above threshold
+2026-10-07 09:02:45.479 INFO [notification-service] Health check passed
+2026-10-07 09:02:46.103 INFO [notification-service] Scheduled job finished
+2026-10-07 09:02:46.824 INFO [inventory-service] Cache refreshed
+2026-10-07 09:02:47.512 INFO [auth-service] Connection pool initialized
+2026-10-07 09:02:48.093 INFO [payment-service] Request completed successfully
+2026-10-07 09:02:48.785 error [notification-service] Database connection failed
+2026-10-07 09:02:49.656 INFO [order-service] Scheduled job finished
+2026-10-07 09:02:50.012 WARN [notification-service] Connection pool nearing capacity
+2026-10-07 09:02:50.307 ERROR [inventory-service] Database connection failed
+
+2026-10-07 09:02:50.734 ERROR [order-service] Downstream service returned 500
+2026-10-07 09:02:51.211 INFO [inventory-service] Scheduled job finished
+2026-10-07 09:02:51.940 INFO [payment-service] Cache refreshed
+2026-10-07 09:02:52.705 INFO [auth-service] Request completed successfully
+2026-10-07 09:02:53.477 INFO [order-service] User session started
