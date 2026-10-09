@@ -1,0 +1,13 @@
+patientId,name,age,ward
+PAT001,Rahul Mehta,54,General
+PAT002,Sunita Rao,67,Cardiology
+PAT003,Arjun Nair,45,General
+PAT004,Fatima Khan,72,ICU
+PAT005,Vikram Singh,38,General
+PAT006,Lakshmi Iyer,61,Cardiology
+PAT007,Imran Shaikh,29,General
+PAT008,Priya Desai,80,ICU
+PAT009,Ravi Kumar,55,General
+PAT010,Anjali Gupta,66,Cardiology
+PAT011,Mohammed Ali,70,ICU
+PAT012,Deepa Nambiar,48,General
