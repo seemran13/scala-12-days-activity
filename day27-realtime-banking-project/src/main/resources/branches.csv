@@ -1,0 +1,9 @@
+branchId,branchName,city,riskLevel
+BR01,Connaught Place,Delhi,LOW
+BR02,Bandra West,Mumbai,LOW
+BR03,Koramangala,Bengaluru,MEDIUM
+BR04,Salt Lake,Kolkata,LOW
+BR05,Anna Nagar,Chennai,MEDIUM
+BR06,Hitech City,Hyderabad,MEDIUM
+BR07,MG Road,Pune,HIGH
+BR08,Sector 18,Noida,HIGH
