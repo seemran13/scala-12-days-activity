@@ -1,0 +1,11 @@
+resourceId,serviceType,name,city,capacity
+H1,HOTEL,Grand Palace,Delhi,40
+H2,HOTEL,Seaside Resort,Goa,10
+H3,HOTEL,Hill View Inn,Manali,25
+H4,HOTEL,City Business Hotel,Mumbai,35
+F1,FLIGHT,AI202,Delhi-Mumbai,180
+F2,FLIGHT,AI305,Mumbai-Bengaluru,150
+F3,FLIGHT,AI418,Chennai-Delhi,165
+B1,BUS,Volvo Express 1,Delhi-Jaipur,45
+B2,BUS,Volvo Express 2,Pune-Mumbai,40
+B3,BUS,Sleeper Deluxe,Bengaluru-Chennai,38
