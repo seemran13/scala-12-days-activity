@@ -1,0 +1,61 @@
+productId,name,category,price,cost
+PROD0001,Wireless Earbuds,Electronics,3716.82,2299.82
+PROD0002,Bluetooth Speaker,Electronics,2977.89,1349.14
+PROD0003,Power Bank,Electronics,3128.14,2074.59
+PROD0004,Smartwatch,Electronics,3725.62,1824.43
+PROD0005,USB-C Hub,Electronics,3695.06,1801.34
+PROD0006,Laptop Stand,Electronics,1092.13,544.05
+PROD0007,Webcam,Electronics,4428.19,2287.89
+PROD0008,Mechanical Keyboard,Electronics,1251.95,651.65
+PROD0009,Wireless Mouse,Electronics,236.81,173.67
+PROD0010,Phone Case,Electronics,1631.28,1034.07
+PROD0011,Table Lamp,Home,2010.26,1165.53
+PROD0012,Cotton Bedsheet Set,Home,1397.15,992.69
+PROD0013,Non-stick Pan,Home,930.4,606.63
+PROD0014,Steel Water Bottle,Home,4436.57,3103.01
+PROD0015,Wall Clock,Home,1263.71,632.91
+PROD0016,Storage Box Set,Home,2479.61,1192.53
+PROD0017,Door Mat,Home,2384.95,1595.88
+PROD0018,Cushion Cover Set,Home,2160.57,1114.56
+PROD0019,LED Bulb Pack,Home,2138.73,1287.71
+PROD0020,Curtain Set,Home,2864.11,1355.36
+PROD0021,Cotton T-Shirt,Fashion,4160.89,2161.05
+PROD0022,Denim Jacket,Fashion,1467.58,953.56
+PROD0023,Running Shoes,Fashion,919.94,492.89
+PROD0024,Leather Wallet,Fashion,965.4,645.89
+PROD0025,Sunglasses,Fashion,3894.05,2678.72
+PROD0026,Formal Shirt,Fashion,3755.38,1896.15
+PROD0027,Backpack,Fashion,881.78,553.94
+PROD0028,Analog Watch,Fashion,2953.06,1805.07
+PROD0029,Canvas Sneakers,Fashion,3925.89,2193.1
+PROD0030,Woolen Sweater,Fashion,4692.88,2687.88
+PROD0031,Basmati Rice 5kg,Grocery,4320.11,2623.9
+PROD0032,Assorted Spice Box,Grocery,3687.72,2253.16
+PROD0033,Cold-Pressed Oil 1L,Grocery,1720.8,1174.13
+PROD0034,Green Tea Pack,Grocery,3646.41,2539.42
+PROD0035,Mixed Dry Fruits 500g,Grocery,1691.86,1239.4
+PROD0036,Organic Honey 500g,Grocery,1807.38,1008.1
+PROD0037,Breakfast Cereal,Grocery,4734.96,3338.26
+PROD0038,Coffee Beans 250g,Grocery,2577.33,1543.86
+PROD0039,Pasta Pack,Grocery,892.27,493.24
+PROD0040,Masala Chai Pack,Grocery,4688.12,2507.49
+PROD0041,Fiction Bestseller,Books,823.13,600.19
+PROD0042,Self-Help Guide,Books,966.66,520.41
+PROD0043,Children's Picture Book,Books,4504.97,2384.2
+PROD0044,Cookbook,Books,4672.29,2186.55
+PROD0045,Business Strategy Book,Books,559.73,273.68
+PROD0046,Travel Guide,Books,1928.18,950.08
+PROD0047,Poetry Collection,Books,1526.24,984.4
+PROD0048,Biography,Books,1173.12,872.63
+PROD0049,History Book,Books,3623.2,2185.92
+PROD0050,Science Fiction Novel,Books,476.04,317.54
+PROD0051,Yoga Mat,Sports,1676.39,1054.05
+PROD0052,Resistance Band Set,Sports,2580.1,1857.2
+PROD0053,Badminton Racket,Sports,2034.96,1270.16
+PROD0054,Cricket Bat,Sports,3975.99,2103.59
+PROD0055,Skipping Rope,Sports,4706.44,2693.53
+PROD0056,Football,Sports,2346.87,1682.62
+PROD0057,Dumbbell Set,Sports,347.43,194.98
+PROD0058,Gym Gloves,Sports,2026.1,1454.92
+PROD0059,Cycling Helmet,Sports,662.09,421.77
+PROD0060,Water Bottle Sipper,Sports,4105.64,2688.38
